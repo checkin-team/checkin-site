@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.checkin.app.checkin",
+               "sha256_cert_fingerprints": ["4D:96:AA:AB:97:D0:1C:81:2C:EC:8B:D7:01:B6:23:1D:73:5F:CA:B1:BA:69:D7:B7:22:64:AC:43:36:EB:C5:51"] }
+}]
